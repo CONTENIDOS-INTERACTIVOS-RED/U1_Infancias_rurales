@@ -40,7 +40,7 @@
 
     .row.mb-5 
       .col-lg-8.mb-3.mb-lg-0 
-        .bg-color-1.p-4(data-aos="fade-up") 
+        .bg-color-1.p-4.mb-4(data-aos="fade-up") 
           p(data-aos="fade-down").mb-0 Según datos de UNICEF Colombia (2023), el sistema educativo de Colombia sigue avanzando sobre la construcción de una educación de calidad para la inclusión y retención de niñas, niños y adolescentes, en las escuelas, en especial para indígenas y afrodescendientes, poblaciones que hacen parte de nuestros entornos rurales. En detalle, por cada 100 estudiantes que ingresan a la escuela en las zonas urbanas, solo el 82 completa su educación. En las zonas rurales, solo el 48 % completa su educación. La tasa nacional de analfabetismo es de 7.4 %, en los afrodescendientes e indígenas es de 11,2 % y 28,6 %, respectivamente. 
         p(data-aos="fade-down") Otras cifras claves sobre la niñez rural (UNICEF, 2023) son los siguientes:
 
@@ -132,9 +132,6 @@
           .col-lg-4
             figure
               img.img-a.img-t(src='@/assets/curso/temas/16.png', alt='')
-
-
-
 
 
     .bg-full-width.border-top.color-primario

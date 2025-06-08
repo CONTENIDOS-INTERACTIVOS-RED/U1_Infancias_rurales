@@ -87,7 +87,7 @@
         figure
           img.img-a.img-t(src="@/assets/curso/temas/36.png", data-aos="zoom-in")      
       .col-lg-8
-        .bg-color-1.p-4.j1(data-aos="fade-left")
+        .bg-color-1.p-4.j1.mb-4(data-aos="fade-left")
           p(data-aos="fade-down").mb-0 Las pautas de crianza en la familia y comunidad, son los procesos, normas y estilos, que se establecen en el sano acompañamiento durante las diferentes etapas de la vida de los niños, desde el nacimiento hasta la adolescencia, aproximadamente. Cada familia o núcleo familiar tiene pautas o modelos propios a partir de las tradiciones, experiencias previas, culturas, saberes locales y condiciones.  
         p(data-aos="fade-down") Dentro de los asuntos particulares y características de la crianza en la ruralidad, se encuentran:     
 
